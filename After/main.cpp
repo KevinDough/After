@@ -63,7 +63,7 @@ int main ()
     int L = 0;
     int nane = 0;
     if (myReadFile.is_open()){
-
+        
         while (!myReadFile.eof()){
             getline (myReadFile, line);
             int hasHash = line.find("#");
@@ -106,7 +106,7 @@ int main ()
                                 break;
                             default:
                                 ;
-                                 
+                                
                         }
                         done = 0;  
                     }
@@ -140,7 +140,7 @@ int main ()
                         done = 1;
                     }
                 } while (done != 0);
-               
+                
                 getline(myReadFile, line);
             }
             
@@ -149,7 +149,7 @@ int main ()
             if (isID ==0)
             {
                 
-            
+                
                 std::ostringstream ossK;
                 ossK << "*ID=K" << ki;
                 
@@ -203,12 +203,12 @@ int main ()
                 line.insert(0, "    ");
             }
             if(line.size()>0){
-               for (int i = 0; i <line.size(); i++)
-               {
-                   cout<<line.at(i);
-                   cout.flush();
-                   usleep(10000);
-               }
+                for (int i = 0; i <line.size(); i++)
+                {
+                    cout<<line.at(i);
+                    cout.flush();
+                    usleep(10000);
+                }
             }
             cout<<endl;
             

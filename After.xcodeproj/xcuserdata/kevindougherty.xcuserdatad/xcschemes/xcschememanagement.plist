@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>After.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>helloWorld.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>506EE9351731FC85000AA25B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>50FEA7F01714F5B70006D71C</key>
 		<dict>
 			<key>primary</key>
