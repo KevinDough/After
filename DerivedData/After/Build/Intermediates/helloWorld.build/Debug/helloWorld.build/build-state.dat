@@ -1,0 +1,60 @@
+ThelloWorld
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/helloWorld normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/helloWorld.LinkFileList
+c000000005165F3020000000000000099
+t1365635842
+s153
+
+N/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o
+t1366479750
+s77832
+
+N/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/helloWorld
+t1366479750
+s17172
+
+N/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp
+c000000005172D383000000000000181F
+t1366479747
+s6175
+
+CBuild AST from /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf3ca71750b23b741^3c1673750b23b741^---0#1#0#--18"Check dependencies36"224D28D8-AD1B-4803-85A0-1DDB13E3A0B2-
+
+CCompileC DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388172547.597504
+e388172550.132415
+r1
+xCompileC
+xDerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o
+x/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp511399030b23b741^6a6c23060b23b741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp0000000000000000^2860"CompileC DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o helloWorld/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevindougherty/Desktop/helloWorld    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/helloWorld-generated-files.hmap -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/helloWorld-own-target-headers.hmap -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/helloWorld-all-target-headers.hmap -iquote /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/helloWorld-project-headers.hmap -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/include -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/DerivedSources/x86_64 -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/DerivedSources -F/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug -MMD -MT dependencies -MF /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.dia -c /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp -o /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o36"5160BCBF-A826-4DA7-8C4B-2B686DCB3273-
+
+CLd /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/helloWorld normal x86_64
+s388172550.149149
+e388172550.746499
+r1
+xLd
+x/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/helloWorld
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Link /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/helloWorld5f4526060b23b741^ec2fbf060b23b741^---0#0#0#--861"Ld DerivedData/helloWorld/Build/Products/Debug/helloWorld normal x86_64    cd /Users/kevindougherty/Desktop/helloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug -F/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug -filelist /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/helloWorld.LinkFileList -mmacosx-version-min=10.7 -o /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/helloWorld36"52D24856-22D0-4B7B-9A4D-E76BEAD8EAD3-
+

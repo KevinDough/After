@@ -1,0 +1,56 @@
+ThelloWorld
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/helloWorld.LinkFileList
+c000000005165F3020000000000000099
+t1365635842
+s153
+
+N/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/helloWorld
+t2
+s0
+
+N/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp
+c000000005165F30100000000000001EC
+t1365635841
+s492
+
+CBuild AST from /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb07101822a16b741^f277c7822a16b741^---0#1#0#--18"Check dependencies36"AA558DC5-ECF6-401B-A1A3-44AA6D3EC793-
+
+CCompileC DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s387328642.781143
+e387328651.268409
+r0
+xCompileC
+xDerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o
+x/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp:17:21: error: no member named 'back' in 'std::basic_string<char>'
+o            if(line.back() = "#")
+o               ~~~~ ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp431bc8822a16b741^7cb8448b2a16b741^-202"/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp:17:21: error: no member named 'back' in 'std::basic_string<char>'            if(line.back() = "#")               ~~~~ ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@51"No member named 'back' in 'std::basic_string<char>'-387328651#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp0000000000000000^16#20#16#20#329#0#14"Semantic Issue1(3@76"file://localhost/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp0000000000000000^16#15#16#19#324#0#-0#0#0#-19%DVTDocumentLocation4@76"file://localhost/Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp0000000000000000^2860"CompileC DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o helloWorld/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevindougherty/Desktop/helloWorld    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/helloWorld-generated-files.hmap -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/helloWorld-own-target-headers.hmap -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/helloWorld-all-target-headers.hmap -iquote /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/helloWorld-project-headers.hmap -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/include -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/DerivedSources/x86_64 -I/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/DerivedSources -F/Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug -MMD -MT dependencies -MF /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.dia -c /Users/kevindougherty/Desktop/helloWorld/helloWorld/main.cpp -o /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Intermediates/helloWorld.build/Debug/helloWorld.build/Objects-normal/x86_64/main.o36"351D9D1F-1380-403F-A2E6-2FA8C98D6F0F-
+
+CLd /Users/kevindougherty/Desktop/helloWorld/DerivedData/helloWorld/Build/Products/Debug/helloWorld normal x86_64
+r0
+

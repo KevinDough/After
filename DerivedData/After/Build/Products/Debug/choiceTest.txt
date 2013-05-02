@@ -1,0 +1,29 @@
+G:”How did you think that was green?”
+newline#
+C:”Oh, yea you're right. It was really dark down there.”
+newline#
+Having focused my attention on the man, the girl seems to be about to explode. Maybe I should run? (1. Apologize 2. Run)
+&*
+K
+H
+&%
+*ID=K1
+Before she has a chance to really go off, I try to appeal to her good nature
+newline#
+C:”Hey listen, I’m sorry that I don't remember anything and I really don't mean to be a spy if I am one, but if I am then I promise to tell you everything. You seems to know a lot about narcolypsy so your probably the only person who can help me regain my memory. Please share some of your knowledge with me!”
+newline#
+I bow deeply as I exclaim that last line.
+newline#
+Her face goes from anger to surprise, though she collects herself rather quickly.
+&%
+*ID=H1
+I should try to slip away nonchalantly.
+newline#
+C:"Ummm, anyway, it looks like you two are busy and I probably am too so…"
+newline#
+I made it about a step away before the girl was in front of me, knives looking extra dangerous.
+&%
+*ID=K1 
+*ID=H1
+H:"And whats going on over here?"
+I heard a calming voice say.

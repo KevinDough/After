@@ -1,0 +1,200 @@
+K:It came from over here!
+newline#
+G:I don't get it, why are we running to a falling building
+newline#
+K:Because, idiot, buildings don't just fall for no reason, Thus building could have just caught our dinner!
+newline#
+It sounds like someone is trying to break in, but I still cant see....
+newline#
+K:Aha! Got through here! Be ready to catch anything if it runs out of here
+newline#
+Ouch! Too bright! Well at least I can see. A silloutte of sorts.
+newline#
+G:Wait, that doesn't look like a deer...
+newline#
+After one silloutte pushes the other one out of the way, the girl shrieks
+newline#
+K:Ahh! Kill it! He could be a Rotter!
+newline#
+G:But aren't rotter noted by their odd skin?
+newline#
+K:Of course they are, but there are other things too, other horrible things, those are the scariest
+newline#
+G:But hes not trying to eat us, just kinda looking at us
+newline#
+K:”Hey, you a human?”
+newline#
+C:”I don’t know what a rotter is but I think I'm pretty normal”
+newline#
+K:”Only a rotter would say that he doesn't know what a rotter is!”
+newline#
+G:”Uhhh, rotters don’t speak”
+newline#
+K:”SOME ROTTERS SPEAK TOO.”
+newline#
+G:”Oh. Uhhh, we could try drowning him and see if he lives”
+newline#
+C:”You could also not drown me, because why would you save me just to kill me. And if thats why you were getting me out of here, then you can just leave and let me get out by myself now, thanks for the head start”
+newline#
+K:”Oh no, yer not going anywhere!”
+newline#C:”Well currently, no, no I am not.”
+newline#
+K:”Right. Yer not.”
+newline#
+G:”Are we going somewhere?”
+newline#
+K:”No! We’re waiting for him!”
+newline#
+G:”But he’s not going anywhere...”
+newline#
+K:”Waiting for him to tell us everything and beg for his life not for him to go anywhere! Now, go on, tell us everything!”
+newline#
+C:”uhhh, about what?”
+newline#
+K:”Start with who you are, who your with, and why you are so close to our homestead!”
+newline#
+Thinking for a moment, as this is the first patch of silence you've had, you realize that you cant really answer any of those questions. Maybe a name? Crap, what letter does it even start with. Ill probably remember once I start talking.
+newline#
+C:”My name is....Ka.......Ti....Jo.... Wwww.... uuhhh...”
+newline#
+K:”Katijowuh? What kind of name is that? What are you, one of the asians?”
+newline#
+C:”No! I mean, maybe? I kinda forgot my name. And who I was here with if anyone, or what a homestead is. So I guess I'm pretty ill equipped to answer those questions.”
+newline#
+G:”Nice try buddy, but everyone remembers their name! Its the first thing you remember about yourself!”
+newline#
+K:”No wait, I’ve read about this before. He must have gotten hit in the head during the building falling and now has nacrolypse”
+newline#
+G:”Uhhh, whats that?”
+newline#
+K:”It’s a thing where you cant remember anything before getting hit.”
+newline#
+Narcolypsy? Crap. What the hell was I doing here? How would I go about getting my memory back?
+newline#
+K:”Hey!”
+newline#
+C:”Huh?”
+newline#
+K:”What are you wearing?”
+newline#
+C:”…What?”
+newline#
+K:”Tell me what yer wearing damnit!”
+newline#
+C:”uhh, a brown shirt, maybe its green. Its dark in here. And... my pants are all ripped up, same color, maybe darker.”
+newline#
+G:”Are we stealing his cloths?”
+newline#
+K:”No idiot! I was seeing if he was a Northern Solider or something.”
+newline#
+So I’m not a solider, or a rotter it sounds like. Would they recognize me if I were one of their friends?
+newline#
+C:”Could I be from ‘Homestead’?”
+newline#
+K:”Wha? No! We would know about you if you were one of us.”
+newline#
+C:”To be fair, we haven’t seen each other yet.”
+newline#
+K:”We can see you! You are under our surveillance!”
+newline#C:”But you asked what cloths I was wearing...”
+newline#
+Wrong things to say. She sounds mad now.
+newline#
+K:”That was just to test you! Thats a test to see if your nacrolypsy is fatal!”
+newline#
+Nacrolyspy can be fatal?!
+newline#
+G:”Wow, you have really good eyesight Ki, I can only see his outline.”
+newline#
+K:”Don’t say my name! What if he's a spy!”
+newline#
+C:”I doubt I would be a good spy with nacrolypsy” 
+newline#
+K:”Well you could have been a spy before that!”
+newline#
+C:”Oh. I guess your right.”
+newline#
+K:”Of course I am! And now you know that I’m onto you!”
+newline#
+C:”This doesn’t seem fair, I was caught and I didn't even know I was spying. Wait! How do I even know if I was a spy? Stop making me think things that I’m unsure of!”
+newline#
+There is a short silence, Im not sure if I'm worried or excited at the prospect of them leaving.
+newline#
+C:“And can I get out of here yet? What if my nacrolypse is really bad? I could die!”
+newline#
+G:”So are your cloths not green?”
+newline#
+C:”What? No, I mean, I think they're green or brown...”
+newline#
+G:”But those are two different colors, it cant be both”
+newline#
+C:”Its dark in here!”
+newline#
+K:”Shut up idiots! Ok tie up his hands and then bring him out here!”
+newline#
+G:”Wouldn’t I need to bring him out here to do that?”
+newline#
+K:”Cant you just do it in there?!”
+newline#
+C:”It’s pretty small in here.”
+newline#
+G:”Yea, I don't wanna go in there if its small, I don't like tight places. Why can’t he just tie his own hands”
+newline#
+C:”I dont have a rope”
+newline#
+G:”Oh, I don't think I do either...”
+newline#
+I can hear a smack and one of the sillouttes fall out of view
+newline#
+K:”ALRIGHT FINE. COME OUT AND KEEP YOUR HANDS ON AIR”
+newline#
+How do I keep my hands on air? Aren’t they always on air? I begin walking out with my hands in stretched out in front of me, like the air is some sort of object that I am resting on.
+newline#
+The day is bright but my eyes adjust relatively quickly. Before me I see a large man with an oddly shaved head. He is carrying a large hammer looking object, esentuating the size of his arms.
+newline#
+The girl next to him has purple hair and large eyes, she looks a lot less threatening with the knife in her hand, but her angered face makes up for the lack of large weapon or muscle.
+newline#
+They both seem about my age, however old that may be, but we are definitely young.
+newline#
+I think? Hopefully. I feel young at least.
+newline#
+K:”You idiot, not like that!”
+newline#
+C:”Like what?”
+newline#
+I lower my hands back to my resting.
+newline#
+K:”Definitely not like that!”
+newline#
+C:”Oh! My hands. Yea, I don't know where you wanted me to put them. But now we can see the
+color of my cloths, so doesn’t it not matter?”
+newline#
+G:”Thats totally brow-”
+newline#
+K:”It totally matters! What if your armed!”
+newline#
+C:”Well I wouldn't know that! So even if I did have a weapon, I wouldn't know where it is, so what does it matter!”
+newline#
+G:”How did you think that was green?”
+newline#
+C:”Oh, yea your right. It was really dark down there.”
+newline#
+Having focused my attention on the man, the girl seems to be about to explode. Maybe I should run? (1. Apologize 2. Run)
+&*
+K
+H
+path:*ID=K1
+Before she has a chance to really go off, I try to appeal to her good nature
+newline#
+C:”Hey listen, I’m sorry that I don't remember anything and I really don't mean to be a spy if I am one, but if I am then I promise to tell you everything. You seems to know a lot about narcolypsy so your probably the only person who can help me regain my memory. Please share some of your knowledge with me!”
+newline#
+I bow deeply as I exclaim that last line.
+newline#
+Her face goes from anger to surprise, though she collects herself rather quickly.
+path:*ID=H1
+I should try to slip away nonchalantly.
+newline#
+C:"Ummm, anyway, it looks like you two are busy and I probably am too so…"
+newline#
+I made it about a step away before the girl was in front of me, knives looking extra dangerous.
+path:*ID=K1 *ID=H1
